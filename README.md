@@ -59,6 +59,6 @@ The UBC StudySpotter App, designed for students at the University of British Col
 ### Create an Account 
 <img src="images/sketch_3.jpg" width="300px">
 
-## References
+## Website Link
 
-{Add your stuff here}
+[{UBC StudySpotter}](https://ubcstudyspotterclient.onrender.com)
