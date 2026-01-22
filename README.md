@@ -61,4 +61,4 @@ The UBC StudySpotter App, designed for students at the University of British Col
 
 ## Website Link
 
-[{UBC StudySpotter}](https://ubcstudyspotterclient.onrender.com)
+[UBC StudySpotter](https://ubcstudyspotterclient.onrender.com)
