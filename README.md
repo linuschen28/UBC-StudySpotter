@@ -1,4 +1,4 @@
-# Group 18 - StudySpotter: UBC’s hottest study spot finder
+# UBC StudySpotter: UBC’s hottest study spot finder
 
 Welcome to StudySpotter, the ultimate solution for UBC students on the hunt for the perfect study spot! Say goodbye to the frustration of wandering around campus looking for a place to study. Our app provides real-time updates on the best study locations, complete with availability, amenities, and even local chatboxes to connect with fellow students. With StudySpotter, you can effortlessly find and reserve your ideal study space, ensuring you always have the perfect environment to hit the books and ace your exams. Get ready to revolutionize your study sessions with StudySpotter!
 
@@ -15,7 +15,7 @@ As a UBC student, finding a place to study can be a challenging task. Despite th
 - Linus Chen: Has an unused Playstation
 
 ## Project Description:
-The UBC Study Spot Tracker App, designed for students at the University of British Columbia, facilitates the location and reservation of study spots on campus. It will store and display information about study spots, including availability, location, and amenities, allowing users to view maps, reserve spaces, and communicate via local chatboxes for each study location. Users can manage their reservations and navigate to different spots directly within the app. Depending on time availability, the app will focus on core functionalities like mapping and booking, with optional features like user authentication for chatboxes and distance measurements between spots considered as enhancements if time permits.
+The UBC StudySpotter App, designed for students at the University of British Columbia, facilitates the location and reservation of study spots on campus. It will store and display information about study spots, including availability, location, and amenities, allowing users to view maps, reserve spaces, and communicate via local chatboxes for each study location. Users can manage their reservations and navigate to different spots directly within the app. Depending on time availability, the app will focus on core functionalities like mapping and booking, with optional features like user authentication for chatboxes and distance measurements between spots considered as enhancements if time permits.
 
 ## Project task requirements:
 
